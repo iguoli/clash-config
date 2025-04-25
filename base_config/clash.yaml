@@ -97,6 +97,7 @@ dns:
   fake-ip-filter:
     # nip.io Domains
     - 'aba.*.*.*.*.*.nip.io'
+    - '*.mercedes-benz.com'
     # Lan
     - '*.lan'
     - '*.linksys.com'
