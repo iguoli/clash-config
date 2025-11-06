@@ -1,3 +1,7 @@
+# Override the rules in the ACL4SSR
+DOMAIN-SUFFIX,microsoft.com
+
+# Miscellaneous
 DOMAIN-SUFFIX,pokemon-home.com
 DOMAIN,ligpwr.myds.me
 
