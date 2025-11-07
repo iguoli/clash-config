@@ -1,10 +1,8 @@
-# Override the rules in the ACL4SSR
-DOMAIN-SUFFIX,microsoft.com
-
-# Miscellaneous
+# For personal use
 DOMAIN-SUFFIX,pokemon-home.com
 DOMAIN,ligpwr.myds.me
 
+# Miscellaneous
 DOMAIN-SUFFIX,nvidia.com
 
 # A DNS service for local app development testing
