@@ -1,3 +1,9 @@
+# Authentication providers
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-SUFFIX,oktapreview.com
+
+
 # For personal use
 DOMAIN-SUFFIX,pokemon-home.com
 DOMAIN,ligpwr.myds.me
